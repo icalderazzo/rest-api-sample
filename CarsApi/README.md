@@ -12,6 +12,8 @@ PUT    /api/cars/{vin}
 DELETE /api/cars/{vin}
 ```
 
+This API has been developed in .NET 8 with C#
+
 ### Requirements
 * .NET 8 Runtime
 * .NET 8 SDK
